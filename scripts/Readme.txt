@@ -1,0 +1,1 @@
+Nesta pasta, estão todos os códigos usados para a construção deste jogo, para analisa-los basta clicar e visualizar.
